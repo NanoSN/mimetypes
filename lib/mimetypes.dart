@@ -3,7 +3,7 @@ library mimetypes;
 /** Before adding new types, make sure they are either registered with IANA,
     at http://www.iana.org/assignments/media-types
     or extensions, i.e. using the x- prefix
-**/
+*/
 
 Map<String, String> typesMap = {
   '.a'      : 'application/octet-stream',
