@@ -1,3 +1,5 @@
 name:  mimetypes
+author: Sam E. <same@nanosn.com>
+homepage: https://github.com/NanoSN/mimetypes
 description:  Guess the MIME type of a file.
 version: 0.0.1
